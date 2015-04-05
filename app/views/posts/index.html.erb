@@ -1,6 +1,11 @@
 <p id="notice"><%= notice %></p>
 
 <h1>Listing Posts</h1>
+<% if logged_in? %>
+<%= link_to "Log out", logout_path, method: "delete" %>
+<% else %>
+<%= link_to "Log in", login_path %>
+<% end %>
 
 <table>
   <thead>
@@ -17,16 +22,19 @@
         <td><%= post.title %></td>
         <td><%= post.body %></td>
         <td><%= link_to 'Show', post %></td>
+        <% if logged_in? %>
         <td><%= link_to 'Edit', edit_post_path(post) %></td>
         <td><%= link_to 'Destroy', post, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <% end %>
       </tr>
     <% end %>
   </tbody>
 </table>
 
 <br>
-
+<% if logged_in? %>
 <%= link_to 'New Post', new_post_path %>
+<% end %>
 
 <br> <br>
 

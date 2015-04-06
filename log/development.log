@@ -17116,3 +17116,72 @@ Started GET "/about" for ::1 at 2015-04-06 15:00:08 -0300
 Processing by StaticPagesController#about as HTML
   Rendered static_pages/about.html.erb within layouts/application (0.5ms)
 Completed 200 OK in 131ms (Views: 130.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for ::1 at 2015-04-06 15:03:47 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 2497ms (Views: 2483.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-04-06 15:03:50 -0300
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (27.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (51.2ms)
+Completed 200 OK in 241ms (Views: 197.5ms | ActiveRecord: 31.0ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-04-06 15:03:51 -0300
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-04-06 15:03:51 -0300
+
+
+Started GET "/assets/scaffolds-8a9ca45c03184073c3aa5d36752940ce.css?body=1" for ::1 at 2015-04-06 15:03:51 -0300
+
+
+Started GET "/assets/sessions-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-04-06 15:03:51 -0300
+
+
+Started GET "/assets/custom-d636fe86766f024e3f4f75bf364eb944.css?body=1" for ::1 at 2015-04-06 15:03:51 -0300
+
+
+Started GET "/assets/users-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-04-06 15:03:51 -0300
+
+
+Started GET "/assets/application-46129c3ada15eb1bd839fce6b1db0a1d.css?body=1" for ::1 at 2015-04-06 15:03:51 -0300
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-06 15:03:51 -0300
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-06 15:03:51 -0300
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-06 15:03:51 -0300
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-04-06 15:03:51 -0300
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-04-06 15:03:51 -0300
+
+
+Started GET "/assets/sessions-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-04-06 15:03:51 -0300
+
+
+Started GET "/assets/static_pages-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-04-06 15:03:51 -0300
+
+
+Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-04-06 15:03:51 -0300
+
+
+Started GET "/assets/application-e8a3ce12666777c10d67dfe4e150c238.js?body=1" for ::1 at 2015-04-06 15:03:51 -0300
+
+
+Started GET "/" for ::1 at 2015-04-06 15:03:52 -0300
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 168ms (Views: 166.9ms | ActiveRecord: 0.3ms)

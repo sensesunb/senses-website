@@ -10,7 +10,7 @@
 <h2><%= link_to post.title, post%></h2>
 <% if logged_in? %>
 <%= link_to 'Edit', edit_post_path(post) %></td>
-<%= link_to 'Destroy', post, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+<%= link_to 'Delete', post, method: :delete, data: { confirm: 'Are you sure?' } %></td>
 <% end %>
 <br>
 <%= post.body.html_safe %></td>
@@ -20,6 +20,6 @@
 
 <br>
 <% if logged_in? %>
-<%= link_to 'New Post', new_post_path %>
+<%= link_to 'New post', new_post_path %>
 <% end %>
 </p>

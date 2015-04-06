@@ -1,14 +1,37 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Blog</title>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
-  <%= csrf_meta_tags %>
-</head>
-<body>
+	<head>
+	  <title><%= yield(:title) %> | Senses</title>
+	    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+	    <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+	    <%= csrf_meta_tags %>
+	    <!--[if lt IE 9]>
+	      <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/r29/html5.min.js">
+	      </script>
+	    <![endif]-->
+	</head>
+	<body>
+	    <header class="navbar navbar-fixed-top navbar-inverse">
+	      <div class="container">
+	        <nav>
+	          <ul class="nav navbar-nav navbar-right">
+	          	<li><%= link_to "Home", root_path %></li>
+	            <li><%= link_to "O que é o quê?", about_path %></li>
+	            <li><%= link_to "O que vocês têm feito?", projects_path %></li>
+	            <li><%= link_to "E quem é quem?", team_path %></li>
+	            <li><%= link_to "Cadê vocês?", contact_path %></li>
+	            <% if logged_in? %>
+				<li><%= link_to "Sair", logout_path, method: "delete" %></li>
+	            <% else %>
+				<li><%= link_to "Entrar", login_path %></li>
+	            <% end %>
+	          </ul>
+	        </nav>
+	      </div>
+	    </header>
 
-<%= yield %>
-
-</body>
+	    <div class="container">
+		<%= yield %>
+		</div>
+	</body>
 </html>

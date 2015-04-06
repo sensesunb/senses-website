@@ -1,24 +1,20 @@
+<% provide(:title, "Home") %>
+<p>
 <p id="notice"><%= notice %></p>
 
 <h1>Bem-vindo ao Senses!</h1>
-<% if logged_in? %>
-<%= link_to "Log out", logout_path, method: "delete" %>
-<% else %>
-<%= link_to "Log in", login_path %>
-<% end %>
-
-<br> <br>
+<br>
 
 <% @posts.each do |post| %>
 
-  <%= link_to post.title, post%>
-  <% if logged_in? %>
-    <%= link_to 'Edit', edit_post_path(post) %></td>
-    <%= link_to 'Destroy', post, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-  <% end %>
-  <br>
-  <%= post.body.html_safe %></td>
-  <br><hline><br>
+<h2><%= link_to post.title, post%></h2>
+<% if logged_in? %>
+<%= link_to 'Edit', edit_post_path(post) %></td>
+<%= link_to 'Destroy', post, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+<% end %>
+<br>
+<%= post.body.html_safe %></td>
+<br><hline><br>
 
 <%end%>
 
@@ -26,7 +22,4 @@
 <% if logged_in? %>
 <%= link_to 'New Post', new_post_path %>
 <% end %>
-
-<br> <br>
-
-<%= link_to 'O que é o quê?', 'www.google.com'%> <%= link_to 'Quem é quem?', 'www.google.com'%> <%= link_to 'O que vocês têm feito?', 'www.google.com'%>
+</p>

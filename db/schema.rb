@@ -13,6 +13,9 @@
 
 ActiveRecord::Schema.define(version: 20150405212103) do
 
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
   create_table "comments", force: :cascade do |t|
     t.integer  "post_id"
     t.text     "body"
@@ -37,6 +40,6 @@ ActiveRecord::Schema.define(version: 20150405212103) do
     t.string   "remember_digest"
   end
 
-  add_index "users", ["email"], name: "index_users_on_email", unique: true
+  add_index "users", ["email"], name: "index_users_on_email", unique: true, using: :btree
 
 end

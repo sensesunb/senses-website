@@ -17,12 +17,13 @@
 	        <nav>
 	          <ul class="nav navbar-nav navbar-right">
 	          	<li><%= link_to "Home", root_path %></li>
-	            <li><%= link_to "O que é o quê?", about_path %></li>
-	            <li><%= link_to "O que vocês têm feito?", projects_path %></li>
-	            <li><%= link_to "E quem é quem?", team_path %></li>
-	            <li><%= link_to "Cadê vocês?", contact_path %></li>
+	            <li><%= link_to "Sobre", '#' %></li>
+	            <li><%= link_to "Projetos", '#' %></li>
+	            <li><%= link_to "Equipe", '#' %></li>
+	            <li><%= link_to "Contato", '#' %></li>
+	            <li><%= link_to "Blog", posts_path %></li>
 	            <% if logged_in? %>
-				<li><%= link_to "Sair", logout_path, method: "delete" %></li>
+				<li><%= link_to "Sair", logout_path %></li>
 	            <% else %>
 				<li><%= link_to "Entrar", login_path %></li>
 	            <% end %>

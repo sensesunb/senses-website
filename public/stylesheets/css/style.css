@@ -174,10 +174,15 @@ h2 {
   padding: 0 15px 0 15px;
   transition: 0.3s;
   text-transform: uppercase;
+  margin: auto;
 }
 /* line 142, ../sass/style.sass */
 #menu a:hover {
   color: #228E5D;
+}
+#menu .header_logo
+{
+  width: 4vw;
 }
 
 /* line 145, ../sass/style.sass */

@@ -1,0 +1,35 @@
+//Mixins
+
+=h-align {
+	margin-left: auto;
+	margin-right: auto;
+
+//=v-align($half-height)
+	margin-top: calc(50% - $half-height);
+}
+
+=v-align {
+	position: relative;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+=size($width, $height) {
+	width: $width;
+	height: $height;
+}
+
+=font($size,$weight) {
+	font-family: $base-font;
+	font-size: $size;
+	font-weight: $weight;
+}
+
+=transition {
+	transition: 0.4s linear 0.1s;
+	-webkit-transition: 0.4s linear 0.1s;
+	-o-transition: 0.4s linear 0.1s;
+	-moz-transition: 0.4s linear 0.1s;
+}

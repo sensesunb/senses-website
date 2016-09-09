@@ -1,0 +1,361 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800italic,800);
+/* line 3, ../sass/_normalize.sass */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 7, ../sass/_normalize.sass */
+h1, h2, h3, h4, p {
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+  font-size: 1em;
+}
+
+/* line 29, ../sass/style.sass */
+body {
+  font-family: Open Sans;
+  font-weight: 400;
+  color: #393939;
+  line-height: 1.4;
+}
+
+/* line 35, ../sass/style.sass */
+b {
+  font-weight: 700;
+}
+
+/* line 39, ../sass/style.sass */
+#about .title {
+  background-color: #228E5D;
+}
+
+/* line 42, ../sass/style.sass */
+h1 {
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 2.5em;
+  margin: 0px;
+  padding: 100px 0 100px 0;
+  color: #FFF;
+}
+/* line 49, ../sass/style.sass */
+h1 b {
+  font-weight: 800;
+}
+
+/* line 53, ../sass/style.sass */
+#team .title {
+  background: rgba(0, 0, 0, 0.2);
+}
+/* line 55, ../sass/style.sass */
+#team h1 {
+  color: #031E3B;
+}
+
+/* line 59, ../sass/style.sass */
+h2 {
+  font-weight: 700;
+  font-size: 1.5em;
+  color: #031E3B;
+}
+
+/* line 67, ../sass/style.sass */
+#about-ieee, #about, .member {
+  overflow: auto;
+}
+
+/* line 70, ../sass/style.sass */
+#welcome {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  background: url(../assets/background.png) fixed;
+  background-size: cover;
+}
+
+/* line 76, ../sass/style.sass */
+.logo {
+  width: 30vw;
+  height: auto;
+  min-width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  background: url(../assets/senses-logo.png) top no-repeat;
+  background-size: 70%;
+  overflow: auto;
+}
+@media (max-width: 767px) and (min-width: 501px) {
+  /* line 76, ../sass/style.sass */
+  .logo {
+    width: 70vw;
+  }
+}
+@media (max-width: 500px) {
+  /* line 76, ../sass/style.sass */
+  .logo {
+    width: 85vw;
+  }
+}
+
+/* line 91, ../sass/style.sass */
+.calling {
+  color: #FFF;
+  font-family: Open Sans;
+  font-size: 1.5em;
+  font-weight: 300;
+  margin-top: 13rem;
+  text-align: center;
+  text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+}
+@media (max-width: 767px) and (min-width: 501px) {
+  /* line 91, ../sass/style.sass */
+  .calling {
+    font-size: 1em;
+  }
+}
+
+/* line 102, ../sass/style.sass */
+.first {
+  margin-top: 50px;
+}
+
+/* line 105, ../sass/style.sass */
+.wrapper {
+  width: calc(50% + 320px);
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
+}
+/* line 109, ../sass/style.sass */
+.wrapper .column-3 {
+  width: 30%;
+  float: left;
+  margin: 1.5%;
+}
+/* line 113, ../sass/style.sass */
+.wrapper .column-3 p {
+  margin-bottom: 10px;
+  font-size: 1em;
+}
+/* line 116, ../sass/style.sass */
+.wrapper .italic {
+  font-weight: 300;
+  font-style: italic;
+  margin-top: 40px;
+}
+
+/* line 121, ../sass/style.sass */
+#menu {
+  background-color: rgba(3, 30, 59, 0.5);
+  padding: 20px;
+  width: 100%;
+  position: fixed;
+  z-index: 3;
+  font-family: Open Sans;
+  font-size: 1em;
+  font-weight: 400;
+}
+/* line 131, ../sass/style.sass */
+#menu .navigation {
+  text-align: center;
+}
+/* line 134, ../sass/style.sass */
+#menu a {
+  color: #FFF;
+  text-decoration: none;
+  text-transform: lowercase;
+  padding: 0 15px 0 15px;
+  transition: 0.3s;
+  text-transform: uppercase;
+}
+/* line 142, ../sass/style.sass */
+#menu a:hover {
+  color: #228E5D;
+}
+
+/* line 145, ../sass/style.sass */
+.icons {
+  width: 100%;
+  height: auto;
+  overflow: auto;
+  padding: 1vw;
+  background: url(../assets/dna.png) center repeat-x;
+  background-size: 100%;
+}
+
+/* line 156, ../sass/style.sass */
+.icon {
+  float: left;
+  overflow: auto;
+  min-height: 156px;
+  margin: 4vw 0 4vw 0;
+}
+/* line 162, ../sass/style.sass */
+.icon .descript {
+  font-size: 1em;
+  text-align: center;
+  margin-top: 12vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 168, ../sass/style.sass */
+.one {
+  background: url(../assets/icon1.png) top no-repeat;
+  background-size: 156px;
+  width: 25%;
+  height: auto;
+}
+
+/* line 173, ../sass/style.sass */
+.two {
+  background: url(../assets/icon2.png) top no-repeat;
+  background-size: 156px;
+  width: 50%;
+  height: auto;
+}
+/* line 177, ../sass/style.sass */
+.two .descript {
+  max-width: 50%;
+}
+
+/* line 180, ../sass/style.sass */
+.three {
+  background: url(../assets/icon3.png) top no-repeat;
+  background-size: 156px;
+  width: 25%;
+  height: auto;
+}
+
+/* line 185, ../sass/style.sass */
+.ieee {
+  background: url(../assets/ieee-embs.png) center no-repeat;
+  background-size: 90%;
+  overflow: auto;
+  width: 194px;
+  height: 350px;
+}
+
+/* line 191, ../sass/style.sass */
+.member {
+  width: 12rem;
+  height: 12rem;
+  background: center no-repeat;
+  margin: 0.5%;
+  float: left;
+  overflow: hidden;
+}
+/* line 197, ../sass/style.sass */
+.member .name {
+  transition: 0.4s linear 0.1s;
+  -webkit-transition: 0.4s linear 0.1s;
+  -o-transition: 0.4s linear 0.1s;
+  -moz-transition: 0.4s linear 0.1s;
+  width: 100%;
+  height: 100%;
+  padding: 25% 0;
+  opacity: 0;
+  text-align: center;
+  font-size: 1.5em;
+  color: #FFF;
+  background: rgba(149, 36, 39, 0.8);
+}
+/* line 206, ../sass/style.sass */
+.member .name:hover {
+  transition: 0.4s linear 0.1s;
+  -webkit-transition: 0.4s linear 0.1s;
+  -o-transition: 0.4s linear 0.1s;
+  -moz-transition: 0.4s linear 0.1s;
+  opacity: 1;
+}
+
+/* line 210, ../sass/style.sass */
+#amanda {
+  background: url("../../images/amanda.png");
+  background-size: cover;
+}
+
+/* line 214, ../sass/style.sass */
+#camila {
+  background: url("../../images/camila.jpg");
+  background-size: cover;
+}
+
+/* line 218, ../sass/style.sass */
+#cris {
+  background: url("../../images/cris.jpg");
+  background-size: cover;
+}
+
+/* line 222, ../sass/style.sass */
+#daniel {
+  background: url("../../images/daniel.jpg");
+  background-size: cover;
+}
+
+/* line 226, ../sass/style.sass */
+#levy {
+  background: url("../../images/levy.jpg");
+  background-size: cover;
+}
+
+/* line 230, ../sass/style.sass */
+#malu {
+  background: url("../../images/malu.jpg");
+  background-size: cover;
+}
+
+/* line 234, ../sass/style.sass */
+#raquel {
+  background: url("../../images/raquel.jpg");
+  background-size: cover;
+}
+
+/* line 238, ../sass/style.sass */
+#pedro {
+  background: url("../../images/pedro.jpg");
+  background-size: cover;
+}
+
+/* line 242, ../sass/style.sass */
+#natalia {
+  background: url("../../images/natalia.jpg");
+  background-size: cover;
+}
+
+/* line 246, ../sass/style.sass */
+#andre {
+  background: url("../../images/andre.jpg");
+  background-size: cover;
+}
+
+/* line 250, ../sass/style.sass */
+#carol {
+  background: url("../../images/carol.jpg");
+  background-size: cover;
+}
+
+/* line 254, ../sass/style.sass */
+#giovanna {
+  background: url("../../images/giovanna.jpg");
+  background-size: cover;
+}
+
+/* line 258, ../sass/style.sass */
+#iracema {
+  background: url("../../images/iracema.jpg");
+  background-size: cover;
+}
+
+/* line 262, ../sass/style.sass */
+#lorens {
+  background: url("../../images/lorens.jpg");
+  background-size: cover;
+}

@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-  root                      'static_pages#landing'
+  root                  'static_pages#landing'
   get     '/blog'	 => 'posts#index'
   get     '/signup'  => 'users#new'
   get     '/login'   => 'sessions#new'

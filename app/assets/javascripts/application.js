@@ -14,3 +14,4 @@
 // = require jquery_ujs
 // = require turbolinks
 // = require smooth_scroll
+// = require top_button

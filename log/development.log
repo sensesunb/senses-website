@@ -45852,3 +45852,2930 @@ Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" f
 
 
 Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:02:34 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:03:33 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (55.4ms)
+Completed 200 OK in 61ms (Views: 60.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:03:33 +0900
+
+
+Started GET "/assets/application-9b0600a3096cf82ea3a2322e694951e5.js?body=1" for ::1 at 2016-09-10 00:03:33 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:03:33 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:03:33 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:03:33 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:04:38 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (115.7ms)
+Completed 200 OK in 131ms (Views: 127.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:04:38 +0900
+
+
+Started GET "/assets/application-9b0600a3096cf82ea3a2322e694951e5.js?body=1" for ::1 at 2016-09-10 00:04:38 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:04:38 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:04:38 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:04:38 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:04:40 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (50.0ms)
+Completed 200 OK in 56ms (Views: 55.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:04:40 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:04:40 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:04:40 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:04:40 +0900
+
+
+Started GET "/assets/application-9b0600a3096cf82ea3a2322e694951e5.js?body=1" for ::1 at 2016-09-10 00:04:40 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:04:45 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (80.6ms)
+Completed 200 OK in 85ms (Views: 84.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:04:46 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:04:46 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:04:46 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:04:46 +0900
+
+
+Started GET "/assets/application-9b0600a3096cf82ea3a2322e694951e5.js?body=1" for ::1 at 2016-09-10 00:04:46 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:04:55 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (54.8ms)
+Completed 200 OK in 60ms (Views: 59.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:04:55 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:04:55 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:04:55 +0900
+
+
+Started GET "/assets/application-9b0600a3096cf82ea3a2322e694951e5.js?body=1" for ::1 at 2016-09-10 00:04:55 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:04:55 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:10:50 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (97.3ms)
+Completed 200 OK in 109ms (Views: 106.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:10:50 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:10:50 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:10:50 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:10:50 +0900
+
+
+Started GET "/assets/application-9b0600a3096cf82ea3a2322e694951e5.js?body=1" for ::1 at 2016-09-10 00:10:50 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:11:36 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (126.6ms)
+Completed 200 OK in 136ms (Views: 134.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top_button-3d9ec32d19241a37f7c8c3f846cba867.js?body=1" for ::1 at 2016-09-10 00:11:36 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:11:36 +0900
+
+
+Started GET "/assets/application-cc17003f878765451b9c3809dd740a80.js?body=1" for ::1 at 2016-09-10 00:11:36 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:11:36 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:11:36 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:11:36 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:13:23 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (110.1ms)
+Completed 200 OK in 133ms (Views: 121.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:13:23 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:13:23 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:13:23 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:13:23 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:13:23 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:13:23 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:14:02 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (55.8ms)
+Completed 200 OK in 64ms (Views: 63.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:14:02 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:14:02 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:14:02 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:14:02 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:14:02 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:14:02 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:16:39 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.8ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (94.3ms)
+Completed 200 OK in 118ms (Views: 105.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:16:39 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:16:39 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:16:39 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:16:39 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:16:39 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:16:39 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:16:58 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (59.0ms)
+Completed 200 OK in 65ms (Views: 64.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:16:58 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:16:58 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:16:58 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:16:58 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:16:58 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:16:58 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:17:08 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (76.0ms)
+Completed 200 OK in 80ms (Views: 79.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:17:08 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:17:08 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:17:08 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:17:08 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:17:08 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:17:09 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:17:42 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (70.5ms)
+Completed 200 OK in 75ms (Views: 74.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:17:42 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:17:42 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:17:42 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:17:42 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:17:42 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:17:42 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:18:27 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (131.2ms)
+Completed 200 OK in 139ms (Views: 137.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:18:27 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:18:27 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:18:28 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:18:28 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:18:28 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:18:28 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:18:31 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (67.7ms)
+Completed 200 OK in 76ms (Views: 75.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:18:31 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:18:31 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:18:31 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:18:31 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:18:31 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:18:31 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:19:04 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (53.3ms)
+Completed 200 OK in 58ms (Views: 57.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:19:05 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:19:05 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:19:05 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:19:05 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:19:05 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:19:05 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:19:34 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (68.7ms)
+Completed 200 OK in 75ms (Views: 75.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:19:34 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:19:34 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:19:34 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:19:34 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:19:34 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:19:34 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:19:40 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (74.1ms)
+Completed 200 OK in 81ms (Views: 80.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:19:40 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:19:40 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:19:40 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:19:40 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:19:40 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:19:40 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:19:41 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (85.4ms)
+Completed 200 OK in 92ms (Views: 91.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:19:41 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:19:41 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:19:41 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:19:41 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:19:41 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:19:41 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:20:22 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (120.3ms)
+Completed 200 OK in 132ms (Views: 128.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:20:23 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:20:23 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:20:23 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:20:23 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:20:23 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:20:23 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:21:03 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (62.8ms)
+Completed 200 OK in 67ms (Views: 66.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:21:03 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:21:03 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:21:03 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:21:03 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:21:03 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:21:03 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:22:44 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (115.9ms)
+Completed 200 OK in 132ms (Views: 127.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:22:45 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:22:45 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:22:45 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:22:45 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:22:45 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:22:45 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:24:31 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (165.0ms)
+Completed 200 OK in 179ms (Views: 172.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:24:32 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:24:32 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:24:32 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:24:32 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:24:32 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:24:32 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:24:34 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (64.3ms)
+Completed 200 OK in 70ms (Views: 69.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:24:35 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:24:35 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:24:35 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:24:35 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:24:35 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:24:35 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:25:11 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (73.1ms)
+Completed 200 OK in 82ms (Views: 80.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:25:11 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:25:11 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:25:11 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:25:11 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:25:11 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:25:11 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:26:00 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (148.5ms)
+Completed 200 OK in 165ms (Views: 161.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:26:00 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:26:00 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:26:00 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:26:00 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:26:00 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:26:00 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:27:32 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (109.7ms)
+Completed 200 OK in 128ms (Views: 124.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:27:32 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:27:32 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:27:32 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:27:32 +0900
+
+
+Started GET "/assets/top_button-ac10b090b397e0a38ac151396f6f03b3.js?body=1" for ::1 at 2016-09-10 00:27:32 +0900
+
+
+Started GET "/assets/application-cfe2821f0029805ef26708f2f42b3b66.js?body=1" for ::1 at 2016-09-10 00:27:32 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:28:56 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (175.1ms)
+Completed 200 OK in 193ms (Views: 189.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-cf2189a79a9b3acced90042d19f7ffe7.js?body=1" for ::1 at 2016-09-10 00:28:56 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:28:56 +0900
+
+
+Started GET "/assets/top_button-950bf6ecd7ad2520b3e1b5a02f648520.js?body=1" for ::1 at 2016-09-10 00:28:56 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:28:56 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:28:56 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:28:56 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:29:09 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (116.6ms)
+Completed 200 OK in 152ms (Views: 151.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:29:09 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:29:09 +0900
+
+
+Started GET "/assets/application-a3f339a836c57c8a0f1a92491b8ea75c.js?body=1" for ::1 at 2016-09-10 00:29:09 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:29:09 +0900
+
+
+Started GET "/assets/top_button-5e508a7dec4915311dcc9adb41632edb.js?body=1" for ::1 at 2016-09-10 00:29:09 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:29:09 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:29:28 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (96.1ms)
+Completed 200 OK in 101ms (Views: 100.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:29:29 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:29:29 +0900
+
+
+Started GET "/assets/application-60f315d5a6f1f5a7f437ff197a9a3d9f.js?body=1" for ::1 at 2016-09-10 00:29:29 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:29:29 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:29:29 +0900
+
+
+Started GET "/assets/top_button-44df212e13e4aa1f485c0bedea8b848f.js?body=1" for ::1 at 2016-09-10 00:29:29 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:30:29 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (121.6ms)
+Completed 200 OK in 127ms (Views: 126.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:30:29 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:30:29 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:30:29 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:30:29 +0900
+
+
+Started GET "/assets/top_button-f90f0719559747b2ad241bed741274e4.js?body=1" for ::1 at 2016-09-10 00:30:29 +0900
+
+
+Started GET "/assets/application-49ce6af443ff06fd1142383198ea01f2.js?body=1" for ::1 at 2016-09-10 00:30:29 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:30:39 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (92.5ms)
+Completed 200 OK in 98ms (Views: 97.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top_button-577cde1d1db12a118b169ddb5ae7ef28.js?body=1" for ::1 at 2016-09-10 00:30:39 +0900
+
+
+Started GET "/assets/application-379e0ebe0a8d72a9c70a30e955e3ccfb.js?body=1" for ::1 at 2016-09-10 00:30:39 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:30:39 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:30:39 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:30:39 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:30:39 +0900
+
+
+Started GET "/login" for ::1 at 2016-09-10 00:31:16 +0900
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (46.7ms)
+Completed 200 OK in 62ms (Views: 56.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/blog" for ::1 at 2016-09-10 00:31:21 +0900
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (6.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (38.1ms)
+Completed 200 OK in 65ms (Views: 26.2ms | ActiveRecord: 16.7ms)
+
+
+Started GET "/" for ::1 at 2016-09-10 00:32:03 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (164.2ms)
+Completed 200 OK in 170ms (Views: 168.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:32:03 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:32:03 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:32:03 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:32:03 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:32:03 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:32:03 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:35:13 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (125.5ms)
+Completed 200 OK in 143ms (Views: 135.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:35:14 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:35:14 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:35:14 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:35:14 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:35:14 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:35:14 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:35:16 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (107.4ms)
+Completed 200 OK in 114ms (Views: 112.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:35:16 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:35:16 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:35:16 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:35:16 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:35:16 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:35:16 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:35:43 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (57.5ms)
+Completed 200 OK in 65ms (Views: 63.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:35:43 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:35:43 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:35:43 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:35:43 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:35:43 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:35:43 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:35:54 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (55.5ms)
+Completed 200 OK in 60ms (Views: 59.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:35:54 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:35:54 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:35:54 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:35:54 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:35:54 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:35:54 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:35:58 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (49.1ms)
+Completed 200 OK in 54ms (Views: 52.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:35:58 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:35:58 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:35:58 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:35:58 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:35:58 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:35:58 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:37:28 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (118.8ms)
+Completed 200 OK in 135ms (Views: 130.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:37:29 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:37:29 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:37:29 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:37:29 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:37:29 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:37:29 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:37:56 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (70.0ms)
+Completed 200 OK in 75ms (Views: 73.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:37:56 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:37:56 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:37:56 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:37:56 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:37:56 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:37:56 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:38:17 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (82.6ms)
+Completed 200 OK in 88ms (Views: 87.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:38:17 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:38:17 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:38:17 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:38:17 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:38:17 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:38:17 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:39:04 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (67.3ms)
+Completed 200 OK in 73ms (Views: 72.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:39:04 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:39:04 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:39:04 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:39:04 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:39:04 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:39:04 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:39:10 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (76.8ms)
+Completed 200 OK in 83ms (Views: 82.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:39:10 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:39:10 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:39:10 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:39:10 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:39:10 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:39:10 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:40:37 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (119.4ms)
+Completed 200 OK in 128ms (Views: 127.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:40:37 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:40:37 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:40:37 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:40:37 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:40:37 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:40:37 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:40:51 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (54.1ms)
+Completed 200 OK in 60ms (Views: 59.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:40:51 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:40:51 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:40:51 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:40:51 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:40:51 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:40:51 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:41:00 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (48.9ms)
+Completed 200 OK in 54ms (Views: 53.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:41:00 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:41:00 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:41:00 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:41:00 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:41:00 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:41:00 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:41:12 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (68.6ms)
+Completed 200 OK in 74ms (Views: 73.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:41:12 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:41:12 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:41:12 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:41:12 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:41:12 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:41:12 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:41:18 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (58.2ms)
+Completed 200 OK in 63ms (Views: 62.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:41:19 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:41:19 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:41:19 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:41:19 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:41:19 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:41:19 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:41:28 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (50.2ms)
+Completed 200 OK in 54ms (Views: 53.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:41:28 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:41:28 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:41:28 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:41:28 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:41:28 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:41:28 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:41:42 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (49.2ms)
+Completed 200 OK in 56ms (Views: 55.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:41:42 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:41:42 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:41:42 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:41:42 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:41:42 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:41:42 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:41:54 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (50.8ms)
+Completed 200 OK in 56ms (Views: 55.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:41:54 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:41:54 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:41:54 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:41:54 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:41:54 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:41:54 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:42:07 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (61.5ms)
+Completed 200 OK in 69ms (Views: 68.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:42:07 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:42:07 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:42:07 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:42:07 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:42:07 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:42:07 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:42:22 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (51.8ms)
+Completed 200 OK in 57ms (Views: 56.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:42:22 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:42:22 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:42:22 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:42:22 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:42:22 +0900
+
+
+Started GET "/assets/application-8f36dc5859c42b87070359dd863295f7.js?body=1" for ::1 at 2016-09-10 00:42:22 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:44:04 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (202.9ms)
+Completed 200 OK in 222ms (Views: 213.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top_button-26cf1afdc7d323d75c3856503e997908.js?body=1" for ::1 at 2016-09-10 00:44:04 +0900
+
+
+Started GET "/assets/application-0457aec928868e8be3fa570a53a64516.js?body=1" for ::1 at 2016-09-10 00:44:04 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:44:04 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:44:04 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:44:04 +0900
+
+
+Started GET "/assets/smooth_scroll-08286d4718c1a67d6994113dacee29d5.js?body=1" for ::1 at 2016-09-10 00:44:04 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:44:14 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (111.0ms)
+Completed 200 OK in 116ms (Views: 115.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/smooth_scroll-7ebca4916c77f1452b4c026143d711a1.js?body=1" for ::1 at 2016-09-10 00:44:14 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:44:14 +0900
+
+
+Started GET "/assets/top_button-26cf1afdc7d323d75c3856503e997908.js?body=1" for ::1 at 2016-09-10 00:44:14 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:44:14 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:44:14 +0900
+
+
+Started GET "/assets/application-3b58e41cf89be98c4c17a7cd18da0681.js?body=1" for ::1 at 2016-09-10 00:44:14 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:44:21 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (86.3ms)
+Completed 200 OK in 91ms (Views: 90.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-343b1797318e9d192ae9e7f965bdc555.js?body=1" for ::1 at 2016-09-10 00:44:22 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:44:22 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:44:22 +0900
+
+
+Started GET "/assets/smooth_scroll-7ebca4916c77f1452b4c026143d711a1.js?body=1" for ::1 at 2016-09-10 00:44:22 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:44:22 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:44:22 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:45:16 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (141.6ms)
+Completed 200 OK in 167ms (Views: 158.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/smooth_scroll-6bb4bb28359b9d98fae46cd0f0affd4f.js?body=1" for ::1 at 2016-09-10 00:45:16 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:45:16 +0900
+
+
+Started GET "/assets/application-3a3c700988ea3364d66f10d684b3dc22.js?body=1" for ::1 at 2016-09-10 00:45:16 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:45:17 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:45:17 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:45:17 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:45:24 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (67.0ms)
+Completed 200 OK in 72ms (Views: 71.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:45:24 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:45:24 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:45:24 +0900
+
+
+Started GET "/assets/smooth_scroll-6bb4bb28359b9d98fae46cd0f0affd4f.js?body=1" for ::1 at 2016-09-10 00:45:24 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:45:24 +0900
+
+
+Started GET "/assets/application-3a3c700988ea3364d66f10d684b3dc22.js?body=1" for ::1 at 2016-09-10 00:45:24 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:45:32 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (133.4ms)
+Completed 200 OK in 138ms (Views: 137.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/smooth_scroll-7717ff4464fe28fb2ca23a9295d2cbbc.js?body=1" for ::1 at 2016-09-10 00:45:32 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:45:32 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:45:32 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:45:32 +0900
+
+
+Started GET "/assets/application-db0f6e05283b83b3ce4c4f71652b09e9.js?body=1" for ::1 at 2016-09-10 00:45:32 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:45:32 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:45:43 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (97.3ms)
+Completed 200 OK in 102ms (Views: 101.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/smooth_scroll-2ae5a213fe78082ba3f6701209c78046.js?body=1" for ::1 at 2016-09-10 00:45:44 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:45:44 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:45:44 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:45:44 +0900
+
+
+Started GET "/assets/application-5f4234ffd10bf8f8a602232177fb86ca.js?body=1" for ::1 at 2016-09-10 00:45:44 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:45:44 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:48:24 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (227.6ms)
+Completed 200 OK in 246ms (Views: 241.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/smooth_scroll-0c93b5835cb0b1db2597a92b77f92fc4.js?body=1" for ::1 at 2016-09-10 00:48:25 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:48:25 +0900
+
+
+Started GET "/assets/application-26523fab10ecdbd15c41e6727eab9bbf.js?body=1" for ::1 at 2016-09-10 00:48:25 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:48:25 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:48:25 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:48:25 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:49:53 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (191.1ms)
+Completed 200 OK in 207ms (Views: 201.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/smooth_scroll-b5f3e62f251c7a2e899452836743501e.js?body=1" for ::1 at 2016-09-10 00:49:53 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:49:53 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:49:53 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:49:53 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:49:53 +0900
+
+
+Started GET "/assets/application-1ed3142bbdbf42fe6c46fc8f3bf02cb9.js?body=1" for ::1 at 2016-09-10 00:49:53 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:50:12 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (152.2ms)
+Completed 200 OK in 160ms (Views: 159.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:50:12 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 00:50:12 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 00:50:12 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:50:12 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:50:12 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:50:12 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:50:29 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (55.9ms)
+Completed 200 OK in 61ms (Views: 60.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:50:29 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 00:50:29 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:50:29 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:50:29 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:50:29 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 00:50:29 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:52:22 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (134.6ms)
+Completed 200 OK in 152ms (Views: 145.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:52:23 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:52:23 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 00:52:23 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:52:23 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:52:23 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 00:52:23 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:52:39 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (78.1ms)
+Completed 200 OK in 83ms (Views: 82.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:52:39 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:52:39 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:52:39 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:52:39 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 00:52:39 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 00:52:39 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:52:44 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (62.7ms)
+Completed 200 OK in 68ms (Views: 67.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:52:44 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 00:52:44 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:52:44 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:52:44 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:52:44 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 00:52:44 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:52:53 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (51.6ms)
+Completed 200 OK in 56ms (Views: 55.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:52:53 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:52:53 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:52:53 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 00:52:53 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:52:53 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 00:52:53 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:53:18 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (52.7ms)
+Completed 200 OK in 57ms (Views: 56.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:53:18 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:53:18 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 00:53:18 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:53:18 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:53:18 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 00:53:18 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:53:26 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (61.4ms)
+Completed 200 OK in 66ms (Views: 65.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:53:27 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 00:53:27 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:53:27 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:53:27 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:53:27 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 00:53:27 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:53:43 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (80.3ms)
+Completed 200 OK in 86ms (Views: 85.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:53:44 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:53:44 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 00:53:44 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:53:44 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:53:44 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 00:53:44 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:54:02 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (172.5ms)
+Completed 200 OK in 194ms (Views: 189.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:54:02 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:54:02 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:54:02 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:54:02 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 00:54:02 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 00:54:02 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:56:19 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (123.7ms)
+Completed 200 OK in 143ms (Views: 136.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:56:19 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:56:19 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:56:19 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 00:56:19 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:56:19 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 00:56:19 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:56:29 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (98.4ms)
+Completed 200 OK in 105ms (Views: 104.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:56:29 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:56:29 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:56:29 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:56:29 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 00:56:29 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 00:56:29 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:56:47 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (56.4ms)
+Completed 200 OK in 62ms (Views: 61.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:56:47 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:56:47 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:56:47 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 00:56:47 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:56:47 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 00:56:47 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:57:07 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (66.4ms)
+Completed 200 OK in 83ms (Views: 79.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:57:08 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:57:08 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 00:57:08 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:57:08 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:57:08 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 00:57:08 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:57:19 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (62.3ms)
+Completed 200 OK in 67ms (Views: 66.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:57:19 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:57:19 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:57:19 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:57:19 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 00:57:19 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 00:57:19 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 00:57:26 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (66.7ms)
+Completed 200 OK in 71ms (Views: 70.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 00:57:26 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 00:57:26 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 00:57:26 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 00:57:26 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 00:57:26 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 00:57:26 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:02:03 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (150.0ms)
+Completed 200 OK in 172ms (Views: 165.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:02:03 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:02:03 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 01:02:03 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:02:03 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 01:02:03 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:02:03 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:02:15 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (62.9ms)
+Completed 200 OK in 70ms (Views: 69.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:02:16 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:02:16 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:02:16 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 01:02:16 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:02:16 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 01:02:16 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:02:50 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (119.0ms)
+Completed 200 OK in 141ms (Views: 133.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:02:50 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 01:02:50 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:02:50 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:02:50 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:02:50 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 01:02:50 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:03:28 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (173.5ms)
+Completed 200 OK in 199ms (Views: 189.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:03:29 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:03:29 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:03:29 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 01:03:29 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:03:29 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 01:03:29 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:04:28 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (160.4ms)
+Completed 200 OK in 183ms (Views: 177.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:04:29 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:04:29 +0900
+
+
+Started GET "/assets/application-33eea7b342272a2baba5ae31f252c548.js?body=1" for ::1 at 2016-09-10 01:04:29 +0900
+
+
+Started GET "/assets/top_button-6d43e12930d04952645935312996adbf.js?body=1" for ::1 at 2016-09-10 01:04:29 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:04:29 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:04:29 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:07:04 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (218.8ms)
+Completed 200 OK in 238ms (Views: 229.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top_button-d03619bb2fc780caaf87a059dcdfec65.js?body=1" for ::1 at 2016-09-10 01:07:04 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:07:04 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:07:04 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:07:04 +0900
+
+
+Started GET "/assets/application-69ac7270a80f354f8b1eaf831a08cc3e.js?body=1" for ::1 at 2016-09-10 01:07:04 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:07:04 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:07:18 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (116.5ms)
+Completed 200 OK in 122ms (Views: 121.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top_button-e37799a2d23d3753eafac03f1d417543.js?body=1" for ::1 at 2016-09-10 01:07:18 +0900
+
+
+Started GET "/assets/application-6c60ff250844fb18730c48a7857bda57.js?body=1" for ::1 at 2016-09-10 01:07:18 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:07:18 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:07:18 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:07:18 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:07:18 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:09:04 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (169.3ms)
+Completed 200 OK in 184ms (Views: 178.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top_button-3386a6d096aaddb029d518a9dc152285.js?body=1" for ::1 at 2016-09-10 01:09:05 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:09:05 +0900
+
+
+Started GET "/assets/application-dd6291ccf05d5e138ff86bed196c1892.js?body=1" for ::1 at 2016-09-10 01:09:05 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:09:05 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:09:05 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:09:05 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:09:12 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (66.7ms)
+Completed 200 OK in 71ms (Views: 70.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:09:12 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:09:12 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:09:12 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:09:12 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:09:26 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (132.4ms)
+Completed 200 OK in 139ms (Views: 137.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-35f3c7d9702369e92c7509d3d142f4d5.js?body=1" for ::1 at 2016-09-10 01:09:26 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:09:26 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:09:26 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:09:26 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:09:26 +0900
+
+
+Started GET "/assets/top_button-2b7e5335af178ea7aea434fdf57b58d6.js?body=1" for ::1 at 2016-09-10 01:09:26 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:09:46 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (128.4ms)
+Completed 200 OK in 134ms (Views: 132.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-d822694c586ef1d4fc33612e37a4fd5c.js?body=1" for ::1 at 2016-09-10 01:09:46 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:09:46 +0900
+
+
+Started GET "/assets/top_button-c73b7fc0debf1e4fedd43b0d330be897.js?body=1" for ::1 at 2016-09-10 01:09:46 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:09:46 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:09:46 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:09:46 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:09:54 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (103.3ms)
+Completed 200 OK in 108ms (Views: 107.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:09:54 +0900
+
+
+Started GET "/assets/application-e78c6492717f6d4ca032ecbe276f05d8.js?body=1" for ::1 at 2016-09-10 01:09:54 +0900
+
+
+Started GET "/assets/top_button-c63cd714b84d37ed71943923c0b90ee3.js?body=1" for ::1 at 2016-09-10 01:09:54 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:09:54 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:09:54 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:09:54 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:10:16 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (102.8ms)
+Completed 200 OK in 107ms (Views: 106.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top_button-493cf30b38481582f2421314bb723d02.js?body=1" for ::1 at 2016-09-10 01:10:16 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:10:16 +0900
+
+
+Started GET "/assets/application-fa31bc3dcc6f3231fa95a79a94838d49.js?body=1" for ::1 at 2016-09-10 01:10:16 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:10:16 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:10:16 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:10:16 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:10:47 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (109.2ms)
+Completed 200 OK in 114ms (Views: 113.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-9dbd9678750950e2a38ddb7dca7f511d.js?body=1" for ::1 at 2016-09-10 01:10:47 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:10:47 +0900
+
+
+Started GET "/assets/top_button-017b3751cd80eb443a6ca77266ec9982.js?body=1" for ::1 at 2016-09-10 01:10:47 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:10:47 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:10:47 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:10:47 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:11:10 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (134.9ms)
+Completed 200 OK in 140ms (Views: 139.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top_button-dbc7dbc282b55009df49b5dd6db3226a.js?body=1" for ::1 at 2016-09-10 01:11:10 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:11:10 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:11:10 +0900
+
+
+Started GET "/assets/application-fcef6a5fd3cc8f9e6a8871e91ed8ce62.js?body=1" for ::1 at 2016-09-10 01:11:10 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:11:10 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:11:10 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:11:25 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (160.4ms)
+Completed 200 OK in 183ms (Views: 174.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:11:26 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:11:26 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:11:26 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:11:26 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:11:26 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:11:26 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:13:48 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (142.9ms)
+Completed 200 OK in 158ms (Views: 153.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:13:48 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:13:48 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:13:48 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:13:48 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:13:48 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:13:48 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:14:14 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (72.0ms)
+Completed 200 OK in 78ms (Views: 77.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:14:14 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:14:14 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:14:14 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:14:14 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:14:14 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:14:14 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:14:26 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (55.4ms)
+Completed 200 OK in 60ms (Views: 59.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:14:26 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:14:26 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:14:26 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:14:26 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:14:26 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:14:26 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:14:53 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (156.4ms)
+Completed 200 OK in 173ms (Views: 167.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:14:53 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:14:53 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:14:53 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:14:53 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:14:53 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:14:53 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:16:03 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (103.6ms)
+Completed 200 OK in 119ms (Views: 114.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:16:04 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:16:04 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:16:04 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:16:04 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:16:04 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:16:04 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:16:53 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (104.2ms)
+Completed 200 OK in 118ms (Views: 113.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:16:54 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:16:54 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:16:54 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:16:54 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:16:54 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:16:54 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:19:21 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (150.5ms)
+Completed 200 OK in 170ms (Views: 163.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/senses-logo-no-text.png" for ::1 at 2016-09-10 01:19:22 +0900
+
+ActionController::RoutingError (No route matches [GET] "/assets/senses-logo-no-text.png"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (5.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (140.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (73.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (162.4ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:19:22 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:19:22 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:19:22 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:19:22 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:19:22 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:19:22 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:19:35 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (59.5ms)
+Completed 200 OK in 66ms (Views: 64.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/senses-logo-no-text.png" for ::1 at 2016-09-10 01:19:35 +0900
+
+ActionController::RoutingError (No route matches [GET] "/assets/senses-logo-no-text.png"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (3.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (116.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (70.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (150.1ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:19:36 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:19:36 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:19:36 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:19:36 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:19:36 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:19:36 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:19:43 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (60.1ms)
+Completed 200 OK in 66ms (Views: 65.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/senses-logo-no-text.png" for ::1 at 2016-09-10 01:19:43 +0900
+
+ActionController::RoutingError (No route matches [GET] "/senses-logo-no-text.png"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (114.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (64.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (144.2ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:19:43 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:19:43 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:19:43 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:19:43 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:19:43 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:19:43 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:20:19 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (100.3ms)
+Completed 200 OK in 116ms (Views: 110.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:20:19 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:20:19 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:20:19 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:20:19 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:20:19 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:20:19 +0900
+
+
+Started GET "/assets/senses-logo-no-text.png" for ::1 at 2016-09-10 01:20:19 +0900
+
+ActionController::RoutingError (No route matches [GET] "/assets/senses-logo-no-text.png"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (4.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (107.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (207.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1@senses/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (315.5ms)
+
+
+Started GET "/" for ::1 at 2016-09-10 01:20:44 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (115.9ms)
+Completed 200 OK in 129ms (Views: 128.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:20:45 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:20:45 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:20:45 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:20:45 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:20:45 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:20:45 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:20:51 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (61.6ms)
+Completed 200 OK in 69ms (Views: 68.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:20:52 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:20:52 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:20:52 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:20:52 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:20:52 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:20:52 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:21:37 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (77.9ms)
+Completed 200 OK in 84ms (Views: 83.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:21:37 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:21:37 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:21:37 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:21:37 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:21:37 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:21:37 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:21:43 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (64.7ms)
+Completed 200 OK in 72ms (Views: 71.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:21:43 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:21:43 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:21:43 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:21:43 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:21:43 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:21:43 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:21:57 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (65.5ms)
+Completed 200 OK in 70ms (Views: 69.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:21:57 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:21:57 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:21:57 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:21:57 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:21:57 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:21:57 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:22:14 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (54.2ms)
+Completed 200 OK in 59ms (Views: 58.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:22:15 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:22:15 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:22:15 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:22:15 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:22:15 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:22:15 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:22:22 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (51.3ms)
+Completed 200 OK in 58ms (Views: 57.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:22:22 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:22:22 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:22:22 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:22:22 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:22:22 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:22:22 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:22:28 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (55.6ms)
+Completed 200 OK in 61ms (Views: 59.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:22:28 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:22:28 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:22:28 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:22:28 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:22:28 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:22:28 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:22:54 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (91.5ms)
+Completed 200 OK in 98ms (Views: 97.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:22:54 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:22:54 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:22:54 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:22:54 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:22:54 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:22:54 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:23:42 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (59.6ms)
+Completed 200 OK in 64ms (Views: 63.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:23:42 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:23:42 +0900
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:23:42 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:23:42 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:23:42 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:23:42 +0900
+
+
+Started GET "/" for ::1 at 2016-09-10 01:24:27 +0900
+Processing by StaticPagesController#landing as HTML
+  Rendered static_pages/landing.html.erb within layouts/application (125.7ms)
+Completed 200 OK in 146ms (Views: 140.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-85ab5fa4904bc2576f92f3fb354a7b9c.js?body=1" for ::1 at 2016-09-10 01:24:27 +0900
+
+
+Started GET "/assets/top_button-bdf5519826337a2eda111eba37f0b827.js?body=1" for ::1 at 2016-09-10 01:24:27 +0900
+
+
+Started GET "/assets/jquery_ujs-a17967e4d678640f5189900d4a0590db.js?body=1" for ::1 at 2016-09-10 01:24:27 +0900
+
+
+Started GET "/assets/jquery-4b032bbc7ac19958eb3f883f9970f786.js?body=1" for ::1 at 2016-09-10 01:24:27 +0900
+
+
+Started GET "/assets/smooth_scroll-6a69070169d22778857f495a2569b2a0.js?body=1" for ::1 at 2016-09-10 01:24:27 +0900
+
+
+Started GET "/assets/application-20f79b057ab1cf3fde3f85dd93028e4c.js?body=1" for ::1 at 2016-09-10 01:24:27 +0900

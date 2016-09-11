@@ -10,19 +10,35 @@
 
 <hline>
 
-<h3>Comments</h3>
-<div id="comments">
-	<%= render :partial => @post.comments.reverse %>
-</div>
-
 <tr class="post">
   <td><%= @post.title %></td>
   <td><%= @post.body %></td>
   <td><%= link_to 'Show', @post %></td>
 </tr>
 
+<h3>Comments</h3>
+<div id="comments">
+    <%= render :partial => @post.comments.reverse %>
+</div>
+
+<%= form_for([@post, Comment.new], remote: true) do |f| %>
+    <%= hidden_field_tag :authenticity_token, form_authenticity_token %>
+  <div class="field">
+    <%= f.label :name %><br>
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :body %><br>
+    <%= f.text_area :body %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
+
+<br><br>
 <% if logged_in? %>
 <%= link_to 'Edit', edit_post_path(@post) %> |
-<%= link_to 'Destroy', post, method: :delete, data: { confirm: 'Are you sure?' } %>
+<%= link_to 'Destroy', @post, method: :delete, data: { confirm: 'Are you sure?' } %> |
 <% end %>
 <%= link_to 'Back', posts_path %>

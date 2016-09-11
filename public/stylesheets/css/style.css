@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800italic,800);
+@import "bootstrap";
 /* line 3, ../sass/_normalize.sass */
 html, body {
   margin: 0;
@@ -395,7 +396,7 @@ h2 {
   width: 8vw;
   height: 8vw;
   display: block;
-  margin-bottom: 1vw;
+  margin-bottom: 1vh;
   background: rgba(149, 36, 39, 0.6) url(../assets/senses-logo-no-text.png) no-repeat center center;
   background-size: 8vw;
 
@@ -411,4 +412,14 @@ h2 {
 }
 #back-top a:hover span {
   background-color: rgba(149, 36, 39, 0.9);
+}
+
+/* Posts */
+.posts-index
+{
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  background: url(../assets/background.png) fixed;
+  background-size: cover;
 }

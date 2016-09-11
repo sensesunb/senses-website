@@ -4,12 +4,17 @@ class PostsController < ApplicationController
   # GET /posts
   # GET /posts.json
   def index
-    @posts = Post.all
+    @posts = Post.paginate(page: params[:page], per_page: 15).order('created_at DESC')
+    respond_to do |format|
+      format.html
+      format.js
+    end
   end
 
   # GET /posts/1
   # GET /posts/1.json
   def show
+    @post = Post.find_by_id(params[:id])
   end
 
   # GET /posts/new

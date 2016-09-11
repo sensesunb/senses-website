@@ -15,3 +15,6 @@
 // = require turbolinks
 // = require smooth_scroll
 // = require top_button
+// = require bootstrap
+// = require pagination
+// = require bind_with_delay

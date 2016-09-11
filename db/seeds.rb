@@ -1,3 +1,5 @@
+require 'faker'
+
 # Users
 senses = User.create(:name => 'Senses',
 					:email => 'senses@gmail.com',
@@ -12,3 +14,9 @@ levy = User.create(:name => 'Lucas de Levy',
 # Posts
 post = Post.create(:title => 'Post default',
 					:body => 'Ipsum Lorem etc.')
+
+99.times do |post|
+    post = Post.create(
+        :title => Faker::Lorem.sentence(1),
+        :body => Faker::Lorem.paragraph(1))
+end

@@ -2,16 +2,15 @@
 <html>
 
 <head>
- <meta charset="utf-8">
- <%= stylesheet_link_tag "css/style.css" %>
- <title>Senses UnB</title>
+  <meta charset="utf-8">
+  <%= stylesheet_link_tag "css/style.css" %>
+  <title>Senses UnB</title>
 </head>
 
 <body>
-
   <p id="back-top">
     <a href="#top"><span></span>voltar ao topo</a>
-  <p>
+  </p>
 
  <%= javascript_include_tag "application" %>
  <div id="menu">
@@ -20,7 +19,11 @@
     <a class="smooth-href" href="#about">quem somos</a>
     <a class="smooth-href" href="#team">nossa equipe</a>
     <a class="smooth-href" href="#join">como participar</a>
-    <a href="#contact">contato</a>
+    <a class="smooth-href" href="#contact">contato</a>
+    <!-- <a href="/blog">blog</a> -->
+    <% if logged_in? %>
+      <a> LOGGED</a>
+    <% end %>
    </div>
   </div>
  </div>

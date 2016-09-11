@@ -16,7 +16,7 @@
  $(window).bindWithDelay("resize", callback, 1000, true);
  */
 
-(function($) {
+$(document).ready(function($) {
 
     $.fn.bindWithDelay = function( type, data, fn, timeout, throttle ) {
 

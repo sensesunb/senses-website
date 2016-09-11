@@ -1,9 +1,9 @@
-<% provide(:title, "Home") %>
 <!DOCTYPE html>
 <html>
 
 <head>
  <meta charset="utf-8">
+ <%= stylesheet_link_tag "css/style.css" %>
  <title>Senses UnB</title>
 </head>
 
@@ -11,27 +11,39 @@
 <a href="#top"><span></span>Back to top</a>
 <p>
 
-<%= javascript_include_tag "application" %>
-<div id="menu">
+<body>
+  <%= javascript_include_tag "application" %>
+   <div id="menu">
     <div class="wrapper">
-    <div class="navigation">
+      <div class="navigation">
+      <a href="/#about">quem somos</a>
+      <a href="/#team">nossa equipe</a>
+      <a href="/#join">como participar</a>
+      <a href="/#contact">contato</a>
+      <% if logged_in? %>
+      <a> LOGGED</a>
+      <% end %>
+      </div>
     </div>
+  </div> 
+
+  <div class="welcome">
+    <% if logged_in? %>
+      <p id="new-post">
+        <a href='posts/new'><span></span>new post</a>
+      </p>
+    <% end %>
+  </div>
+
+  <div class="wrapper">
+    <div class="posts-index" id="posts-index">
+      <%= render @posts %>
     </div>
-</div>
 
-<div id="my-posts">
-  <div class="page-delimiter first-page" data-page="<%= params[:page] || 1 %>"></div>
-  <%= render @posts %>
-</div>
-
-<% if @posts.next_page %>
-    <div id="infinite-scrolling">
+    <% if @posts.next_page %>
+      <div id="infinite-scrolling">
         <%= will_paginate %>
-    </div>
-<% end %>
-
-<!-- <br>
-<% if logged_in? %>
-<%= link_to 'New post', new_post_path %>
-<% end %>
-</p> -->
+      </div>
+    <% end %>
+  </div>
+</body>

@@ -394,12 +394,12 @@ h2 {
 
 /* arrow icon (span tag) */
 #back-top span {
-  width: 8vw;
-  height: 8vw;
+  width: 6vw;
+  height: 6vw;
   display: block;
   margin-bottom: 1vh;
   background: rgba(149, 36, 39, 0.6) url(../assets/senses-logo-no-text.png) no-repeat center center;
-  background-size: 8vw;
+  background-size: 6vw;
 
   /* rounded corners */
   -webkit-border-radius: 50px;
@@ -442,8 +442,8 @@ h2 {
 }
 
 #new-post span {
-  width: 8vw;
-  height: 8vw;
+  width: 6vw;
+  height: 6vw;
   display: block;
   margin-bottom: 1vh;
   background: rgba(3, 30, 59, 0.6) url(../assets/senses-logo-no-text.png) no-repeat center center;

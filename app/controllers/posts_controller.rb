@@ -19,7 +19,11 @@ class PostsController < ApplicationController
 
   # GET /posts/new
   def new
-    @post = Post.new
+    if logged_in?
+      @post = Post.new
+    else
+      redirect_to login_path
+    end
   end
 
   # GET /posts/1/edit
